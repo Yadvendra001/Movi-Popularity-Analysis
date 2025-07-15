@@ -1,0 +1,6 @@
+movie_id,title,cast,crew,genres,release_date,budget,revenue,runtime,popularity,vote_average,vote_count,language
+19995,Avatar,"Sam Worthington, Zoe Saldana",James Cameron,"Action, Adventure, Fantasy",2009-12-10,237000000,2787965087,162,150.4,7.2,11800,en
+285,Pirates of the Caribbean: At World's End,"Johnny Depp, Orlando Bloom",Gore Verbinski,"Adventure, Fantasy, Action",2007-05-19,300000000,961000000,169,139.0,6.9,9800,en
+206647,Spectre,"Daniel Craig, Christoph Waltz",Sam Mendes,"Action, Crime",2015-10-26,245000000,880674609,148,107.3,6.3,6500,en
+49026,The Dark Knight Rises,"Christian Bale, Tom Hardy",Christopher Nolan,"Action, Crime",2012-07-16,250000000,1084939099,165,112.3,7.6,13500,en
+49529,John Carter,"Taylor Kitsch, Lynn Collins",Andrew Stanton,"Action, Adventure, Sci-Fi",2012-03-07,260000000,284139100,132,43.9,6.1,3200,en
